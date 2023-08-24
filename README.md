@@ -1,5 +1,5 @@
 # Stock-Prediction
-Utilizes 2017-2018 Tesla stock information to predict closing Tesla stock for 2019
+Utilizes 2017-2018 Tesla stock information to predict closing Tesla stock for 2019.
 
 ## Dataset
 - train - 2017 to 2018 Tesla stock information 
